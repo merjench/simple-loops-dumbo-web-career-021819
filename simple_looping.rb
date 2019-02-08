@@ -40,7 +40,7 @@ end
 def for_iterator(number_of_times)
   # code your solution here using the "for" keyword
   # remember that `for` requires a range of numbers. How can we turn our number into a range?
-  for_iterator 
+  for_iterator = 1..7
   for number in for_iterator
   
   phrase = "Welcome to Flatiron School's Web Development Course!"
